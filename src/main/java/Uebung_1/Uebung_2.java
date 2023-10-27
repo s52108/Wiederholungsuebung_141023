@@ -1,3 +1,5 @@
+package Uebung_1;
+
 public class Uebung_2 {
     public static void main(String[] args) {
         int[] zahlen1 = {20, 30, 40, 50};

@@ -1,3 +1,5 @@
+package Uebung_1;
+
 public class Uebung_4 {
 
     public static void main(String[] args) {
